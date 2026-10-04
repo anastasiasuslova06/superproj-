@@ -1,0 +1,3 @@
+[submodule "libs/subproj"]
+	path = libs/subproj
+	url = https://github.com/anastasiasuslova06/subproj.git
