@@ -1,4 +1,1 @@
 
-[submodule "vendor/subproj"]
-    path = vendor/subproj
-    url = https://github.com/anastasiaslova06/subproj-renamed.git
